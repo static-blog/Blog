@@ -1,1 +1,1 @@
-# Blog
+# Static Blog
